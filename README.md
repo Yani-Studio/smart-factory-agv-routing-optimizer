@@ -22,9 +22,9 @@
 
 > 실제 공장 레이아웃 위에서 다수의 AGV가 물류 요청을 처리하며 자율 주행하는 모습입니다.  
 > 각 로봇은 고유 색상으로 구분되며, 장애물(벽)을 피해 최적 경로를 따라 이동합니다.
-
-https://github.com/user-attachments/assets/5f83886b-e175-4764-a319-1dff4307cdb6
-
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/5f83886b-e175-4764-a319-1dff4307cdb6" width="50%" controls></video>
+</p>
 
 <br>
 
