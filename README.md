@@ -7,11 +7,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OR-Tools](https://img.shields.io/badge/Google_OR--Tools-VRP_Solver-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-00C853?style=for-the-badge)
 
 **100개 노드 · 최대 50대 AGV · 실시간 충돌 회피(MAPF) · 웹 기반 관제 대시보드**
-
-[시뮬레이션 구동 영상](#-자율주행-시뮬레이션-live) · [성능 분석](#-성능-비교-분석) · [아키텍처](#-시스템-아키텍처) · [실행 방법](#-실행-방법)
 
 ---
 
