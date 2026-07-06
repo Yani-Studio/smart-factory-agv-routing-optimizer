@@ -11,9 +11,8 @@
 **100 Nodes · Up to 50 AGVs · Real-Time Collision Avoidance (MAPF) · Web-Based Control Dashboard**
 
 ---
-
->⚠️ Copyright Notice
->Copyright (c) 2026 Kang Gyu Min. All rights reserved.
+> ⚠️ Copyright Notice Copyright (c) 2026 Kang Gyu Min. All rights reserved.
+---
 
 
 </div>
